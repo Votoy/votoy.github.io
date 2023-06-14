@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://votoy.github.io</id>
+    <title>FORMOREBAR</title>
+    <updated>2023-06-14T06:25:18.859Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://votoy.github.io"/>
+    <link rel="self" href="https://votoy.github.io/atom.xml"/>
+    <subtitle>日咖夜酒，浮梦半生</subtitle>
+    <logo>https://votoy.github.io/images/avatar.png</logo>
+    <icon>https://votoy.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, FORMOREBAR</rights>
+    <entry>
+        <title type="html"><![CDATA[imagination]]></title>
+        <id>https://votoy.github.io/post/ce-shi/</id>
+        <link href="https://votoy.github.io/post/ce-shi/">
+        </link>
+        <updated>2023-06-06T10:32:57.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://votoy.github.io/post-images/1686286559911.jpg" alt="" loading="lazy"><br>
+<img src="https://votoy.github.io/post-images/1686286565201.jpg" alt="" loading="lazy"><br>
+<img src="https://votoy.github.io/post-images/1686286570830.jpg" alt="" loading="lazy"><br>
+<img src="https://votoy.github.io/post-images/1686293037541.png" alt="" loading="lazy"><br>
+<img src="https://votoy.github.io/post-images/1686286577010.jpg" alt="" loading="lazy"><br>
+<img src="https://votoy.github.io/post-images/1686286583916.jpg" alt="" loading="lazy"><br>
+<img src="https://votoy.github.io/post-images/1686648055626.JPG" alt="" loading="lazy"><br>
+<img src="https://votoy.github.io/post-images/1686648064091.JPG" alt="" loading="lazy"><br>
+<img src="https://votoy.github.io/post-images/1686648073373.JPG" alt="" loading="lazy"><br>
+<img src="https://votoy.github.io/post-images/1686648078591.jpg" alt="" loading="lazy"><br>
+<img src="https://votoy.github.io/post-images/1686648088560.JPG" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
